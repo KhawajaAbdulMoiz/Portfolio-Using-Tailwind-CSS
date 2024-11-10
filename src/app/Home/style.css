@@ -1,0 +1,106 @@
+h1 {
+  margin-left: 20%;
+  padding-top: 18%;
+  font-size: 46px;
+}
+@media (min-width: 391px) and (max-width: 575px){
+  h1{
+    margin-left: 18%;
+    padding-top: 34%;
+    font-size: 31px;
+  }
+  span.name{
+    font-size: 44px;
+  }
+  h1.subheading {
+    margin-top: -68px;
+}
+.my-img {
+  border-radius: 209px;
+  margin-left: 12%;
+  margin-top: 150px;
+}
+.button{
+  margin-top: 5%;
+    height: 9%;
+    width: 47%;
+}
+.social-media{
+  display: none;
+}
+}
+@media (min-width: 576px) and (max-width: 767.98px){
+  h1{
+    margin-left: 20%;
+    padding-top: 22%;
+    font-size: 46px;
+  }
+  span.name{
+    font-size: 53px;
+  }
+  h1.subheading {
+    font-size: 31px;
+    margin-top: -57px;
+  }
+  .my-img{
+    margin-left: -4%;
+    margin-top: 132px;
+  }
+}
+@media (min-width: 200px) and (max-width: 390px){
+  h1{
+    margin-left: 12%;
+    padding-top: 22%;
+    font-size: 18px;
+  }
+  .button{
+    width: 38%;
+  }
+  span.name{
+    font-size: 53px;
+  }
+  h1.subheading {
+    font-size: 31px;
+    margin-top: -57px;
+  }
+  .my-img{
+    margin-left: -4%;
+    margin-top: 132px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98px){
+  h1{
+    margin-left: 20%;
+    padding-top: 22%;
+    font-size: 46px;
+  }
+  span.name{
+    font-size: 53px;
+  }
+  h1.subheading {
+    font-size: 31px;
+    margin-top: -57px;
+  }
+  .my-img{
+    margin-left: -4%;
+    margin-top: 132px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px){
+  h1{
+    margin-left: 20%;
+    padding-top: 22%;
+    font-size: 46px;
+  }
+  span.name{
+    font-size: 53px;
+  }
+  h1.subheading {
+    font-size: 31px;
+    margin-top: -57px;
+  }
+  .my-img{
+    margin-left: 28%;
+
+  }
+}

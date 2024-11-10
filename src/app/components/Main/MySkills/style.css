@@ -1,0 +1,82 @@
+@media (min-width: 200px) and (max-width: 390px){
+    .skls{
+        padding-top: 21%;
+        font-size: 32px;
+        margin-left: 37%;
+    }
+    .lang{
+        font-size: 18px;
+        margin-right: 40%;
+    }
+    .section1 {  
+        flex-direction: column;
+        margin-left: 36%;
+        margin-top: 7%;
+    }
+}
+@media (min-width: 391px) and (max-width: 575px){
+    .skls{
+        padding-top: 21%;
+        font-size: 32px;
+        margin-left: 37%;
+    }
+    .lang{
+        font-size: 18px;
+        margin-right: 40%;
+    }
+    .section1 {  
+        flex-direction: column;
+        margin-left: 36%;
+        margin-top: 7%;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px){
+    .skls{
+        
+        font-size: 43px;
+        margin-left: 33%;
+        margin-top: 10%;
+    }
+    .lang{
+        font-size: 24px;
+        margin-right: 57%;
+    }
+    .section1 {  
+        
+        flex-wrap: wrap;    
+        margin-left: 4%;
+        margin-top: 7%;
+    }
+   
+    .skill1 .my-skills {
+    padding: 37px;
+    margin-right: -14px;
+    padding: 45px;
+}
+} 
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .skls {
+        font-size: 34px;
+        margin-left: 40%;
+        margin-top: 19%;
+         
+    }
+    .lang{
+        font-size: 24px;
+        margin-right: 57%;
+    }
+    .section1 {  
+        
+        display: grid;
+        grid-template-columns: repeat(3, 7fr);
+        margin-left: 4%;
+        margin-top: 7%;
+    }
+   
+    .skill1 .my-skills {
+        flex: 0 0 33.33%; 
+        padding: 37px;
+        margin-right: -14px;
+        padding: 45px;
+}
+}

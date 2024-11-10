@@ -1,0 +1,65 @@
+@media (min-width: 200px) and (max-width: 390px){
+    .container2{
+        height: 504px;
+        width: 81%;
+        margin-top: 19%;
+        margin-left: 13%;
+    }
+    h2.about{
+        font-size: 15px;
+        color: aliceblue;
+        line-height: 29px;
+    }
+}
+@media (min-width: 391px) and (max-width: 575px){
+    .container2{
+        height: 504px;
+        width: 81%;
+        margin-top: 19%;
+        margin-left: 13%;
+    }
+    h2.about{
+        font-size: 15px;
+        color: aliceblue;
+        line-height: 29px;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px){
+    h2.about{
+    color: white;
+    font-family: Poppins;
+    margin-top: 25px;
+    padding: 9px;
+    font-size: 22px;
+    margin-left: 13px;
+}
+.container2{
+    padding: 1%;
+    margin-top: 17%;
+    margin-left: 11%;
+    height: 756px;
+    width: 75%;
+}
+}
+@media (min-width: 768px) and (max-width: 991.98px){
+    h2.about{
+        color: white;
+        font-family: Poppins;
+        margin-top: 25px;
+        padding: 9px;
+        font-size: 22px;
+        margin-left: 13px;
+    }
+    .container2{
+        padding: 1%;
+        margin-top: 17%;
+        margin-left: 11%;
+        height: 756px;
+        width: 75%;
+    }
+}
+@media (min-width: 992px) and (max-width: 1200px){
+h2.about{
+margin-top: -10px;
+}
+}
